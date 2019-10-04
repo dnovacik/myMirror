@@ -1,0 +1,67 @@
+{
+    "secret": "]XtN3myPK85>^[36",
+    "electron": {
+        "fullscreen": true,
+        "autoHideMenuBar": true,
+        "zoom": 1
+    },
+    "config": {
+        "language": "en",
+        "timeFormat": 24,
+        "units": "metric"
+    },
+    "users": [
+        {
+            "name": "danko"
+        },
+        {
+            "name": "zdenka"
+        }
+    ],
+    "modules": {
+        "weather": {
+            "location": "Bratislava",
+            "locationID": "3060972",
+            "appid": "c84ebb324f3fbccb4dbfc93916098556",
+            "units": "metric",
+            "updateInterval": 900000,
+            "forecastDays": 3,
+            "icons": {
+                "01d": "wi wi-day-sunny",
+                "02d": "wi wi-day-cloudy",
+                "03d": "wi wi-cloudy",
+                "04d": "wi wi-cloudy-windy",
+                "09d": "wi wi-showers",
+                "10d": "wi wi-rain",
+                "11d": "wi wi-thunderstorm",
+                "13d": "wi wi-snow",
+                "50d": "wi wi-fog",
+                "01n": "wi wi-night-clear",
+                "02n": "wi wi-night-cloudy",
+                "03n": "wi wi-night-cloudy",
+                "04n": "wi wi-night-cloudy",
+                "09n": "wi wi-night-showers",
+                "10n": "wi wi-night-rain",
+                "11n": "wi wi-night-thunderstorm",
+                "13n": "wi wi-night-snow",
+                "50n": "wi wi-night-alt-cloudy-windy"
+            }
+        },
+        "clock": {
+            "showSeconds": true
+        },
+        "bitcoinPrice": {
+            "updateInterval": 900000,
+            "baseTicker": "EUR"
+        },
+        "strava": {
+            "access_token": "75f718621b699725707996305690c0d0408093d8",
+            "client_id": "38538",
+            "client_secret": "8338359c5dda67cc233116b481406e3ed5deee0c",
+            "redirect_uri": "localhost"
+        },
+        "faceRecognition": {
+            "users": ["danko", "zdenka"]
+        }
+    }
+}
