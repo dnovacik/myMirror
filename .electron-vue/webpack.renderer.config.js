@@ -1,1 +1,190 @@
-‡˜›Š…€“›šˆŽu ~‘j–ƒ…‘ƒŽv{o“n„”Š€€ˆƒ“|yn‘€“}••‡—£y‰šj—…x¦›£‘›k“˜‚‹‰‡€‡‡r5—l’•|‹€~¡”‹“’‰—~–ˆ‚†{…‘†”y{™uš•›”œŒ˜w ¢z¡™nƒŠx|„Œ{‰ˆnƒ˜›„…„”ŠŽ¢Ž‚…‹Ž}ª”i ”™ŽŽ“‚‡xwŠo–Š…t–“—~Š—ŠŽžt”Š…šŽ˜„‰šsƒu|’Œ†{Žyˆƒ ŽƒŠ€›„Œ‘‡‹‘}…˜„ƒ€‹€‰‡‘œs„Œƒ„–Œrx~ˆŠ……‰†‰„…‹ˆŠ‡…††‡…†„‰‚‡„†Œ…‡…‡‰ˆ‡…„‹†‰†ƒ‚‡ˆ†„‰„‰ˆ€ˆˆ…‰ˆŒˆŽˆ…‹‚Š…„‰…ƒ†Š‚„‡Š†……‚…ƒ†Š…‡‡ˆyŠ††‡ƒŒˆ‚‡‡‡‡‰ˆ„„‰€…ƒ€ˆŒ…†Š‡‹†Š††…~Ž…†…ƒˆ‡ƒƒŒ„…„ˆ„—†ˆ‡‰Š‰†}„‡‰…‚Š‡„„—Œ‡ƒˆ‹}†‰Œ…‚‹{}Šˆ‰‚‰Š‹‡‚}yŠŽˆˆ†‰‚’‡‚Šƒ‚‡ˆ‹|€‰~ˆˆˆ„„†ˆˆ~„†ƒ„††‚‡„‘†ƒ…‰‡‚ƒ†Š„†ˆ~„Ž‚Šˆ‡ŽŠ{……‹ˆwŒ‹‚‹Œ‡‚‡Žwzt€ˆ‰€ttŠ„…†“ˆ‡€x“€ƒ“Šˆ‡x}„~…ˆŽ”‡}”„ƒ„ƒ‰z‡‘†‡‚}‰€…ƒŠˆ„‹„Š~“qy‰‰ƒ„‰wŽ‰ˆ‹‚ŠwtƒŒ‹o…Šƒ–ŠŠŽ‰Š„‚~‚‡Žu„‰”}ƒŠƒŠ‹ƒ‡‹roŠ}„Œ‘…~‰ˆŽ‚ƒu‡y†‚ƒˆŒ}ˆ‡oƒ“…ŠŒ€z†vˆw€—‚‹‚‚z‡†„’ƒ„ˆ|‡„‹„‹‰‘‚‚ˆ}†…„~ƒyz|†‡‰‰€Š{ƒ}ŠŒ„†„ƒ‚‰‚|€ƒŠ‘ƒ‚yƒ~~‹Œ‚†¡’‡y|Š‹…‚’ŠŠ}‹Š„ƒ…Œ„š‰‹Œ~…‹–†ƒˆ€Š…„†~‘Œ‹y‰’‡z‡†„ˆ†wt„…’ˆ’‘‡Ž……‡‚’|…zˆ‰„Ž†rƒ‚”Ž†‘qt—‰w•€z–Ž‹|’ƒŒ‰”“Œ€rŒ‰…‡†‹Š|x§z‰ŒˆŒ–˜†Ž‘ˆ‰‰‹ˆ|{‹…uŒ†‡‰~ƒƒ“|ˆ˜ˆ”}“˜•¢‹‚˜š”ƒ†‹ ‘ƒ‘…‡œš‡Šƒ{”Œ‰„ˆ~…’ŠˆšŽƒ‚‚ŽŠ†m…™‰Š‡ˆŒˆ‚~‚•…•€Œ’™„ˆ‚‡wwŠ†™g„‚ƒ‰„‰ˆ’˜Š“…ˆxˆŽŒ‰‰‹ˆ‹‡†“‚„y“|Žƒƒ‹‚‹›Žz‚‹’‹†œŒˆ€z†€‘‰uˆ”‰‰„Œ‰vŠq‰vƒv”†Œ…Žˆ‡Š”„‘Š—z•pŽ•™~{{„Ž‘ˆzˆlwŽŠ‹u„–ŠŒŽ~ŒŠ‹Œ€ŠŽ‹{€w‰Ž…zƒ„†”‰“‡|‚€‡—‡––Œ‡†“‹ƒw„€wŒ†Š…xŒ…ˆ~ˆŠ•†Œ’‹‡†–ŽŽ‡‰”“„‹‘ƒ”Œ‹Œ€’‡ˆ‹……Ž…€”•Ž†‰|}Šs–”…‘’~‡ˆ}—‘ŽŒ‘‰†ƒ|r‹ˆŽ„‚Œ‚‰’„ƒ„‚‡††‘qŠ”‚ˆ‹z}|ƒ“‘‹‘•ˆŠ——r|rz‡‚v‘‰‰…|ˆ•„ƒ’‰‘ˆ“vƒ‰„ŽŽ‘t…Œ‡Œ‚ˆvŽ„ŽšˆŒƒ¡‹u‰}„•{|“˜„–xt“‰Œ{ƒš„ƒ‡€Ž‚‡Ž–Šqƒ‚{Œ…”‚—–r…€Š‰’ŽŒ•Š•‰~“‘|šˆvŒ„ƒ“†„zƒ‡ˆ…Ž•†•ŒŽ‰™†Œ™Œˆž†“‰‡€‰’}„‘‹™‰„‡Œ“†}‘‘Œ‡v’”y~Šˆ~‹‘ŽŠƒ{’†‡–‘‡‘’{Š˜‡rš…~{Š~‰•Œ}Š‚~|†|‹‘ŒŠƒŒ‹‡€’~’ssy‚mr”’…‹”‡†vx›rž‡‹…ˆ„vz|‹Œ…ŽŽuŠ†xˆŽˆg•Š„Š‰ˆ„‰†„{~†•‰Žˆ‰“…et’Šwˆ†…‚†„Œ‰yt„‹‘v‰‰†•ˆ~‰{Š„{†ƒ„Œˆuyƒ€‡}“‰ƒxŒ„lƒ€Žƒ€ƒŠ…Žn‹†wpƒxwƒ•ŠyŠŒ€†‹r•z‘ˆ„…„‚|€†ƒŠƒ‹Œ{ŒŒrz…‹‡‰‚Œz{}ƒ’~Œ…€|‚‡‹ˆ‹~Š‹Šsw~„ƒ—†|‡Œ{€{Š‹‡ƒ…„†xŒt–Œ„Œˆ‚…‚‡†ƒƒ…Œ‹~†Ž†”„ŒŒ”~v‘~q‡ˆ‰‰Œ‰…“ƒ…ˆŽ‰„‘ŠŽŽ—‡„†•‹Œ†ŒˆŒ„„‚‹‹Ž†Ž~~‰‹|‘„“Œ˜~‡’~Œ“Œ—ƒ–Š‹‹–Ž‘Š’‹€{‡ŠŽƒ†‹uŒŠ‡}Ž‚ˆ}‡’„š‹‰…‹†ˆ’†ŽŠ‚‰Œ‡ŽŠ“‰‰‰Œ…ŽŠŽƒ‰‹‡‡‹‰‘”‰Š‰‹†‡ˆ‹“†„ˆ‡“Œ’‹Ž‡…‹Œ’‘’‡z˜•’…Ž†‰Œ„‡ƒŒ†Œ‰‰ŽŠ‹œ‚‚}ˆŒ†„Œ‹Œ“Šƒsqx‘€‡}`ŸŸŽ~nŸ‚|‘ƒˆi’‘…‡}}u}g‹U‰Œ}‚\•fr‰y~‘|t…q¤…r{„}~ql…““p›—lu}~…‹}––ƒr|ƒšo–o™d“Oƒ‚rxŽ}™wge›€n†s’ˆy{z‡Œ¬p—ŒÒ‡€~z˜{œzw¤|v‹ˆ‚…Ÿ{Œw…\‹u‡x|q_†Žcb‘Œ~nˆ—ˆ–ˆ}‹nuƒz‡ƒ‚—„‚“‡‹kh}zˆsƒp‡ƒmŒŠi–z’‚†€`}„ƒ±ƒŽ•šu^}„y—z‚¿~gŒ„ŽeƒŽz‹qŽ†‘ƒ‘ƒƒ‰~}„‰qn{††ttkŒ•‰„†‡„{žz‹€…‡r’u}•’‘…‰„~Š||€~€”x€‘y–}„|‚…‡z€ˆ{„ˆƒŒ“‚Šk~Œ…†|‘v„†€}‘‰€tˆ’yŠ†ˆŠ„w–‰Ž…†|{‡u€†|‹‹„Ž“Ž€„Šgl”nŽ‚†vŒ…}“pq{vxˆƒ‹yqŒ‹ˆˆ†‹tx€‚€}zš“…‡„‹’‰wt†‡Šw€€m‡‰vŠ|‚†z}‡€‡Š€†„–„’r‘{‚ˆy€yvˆˆ’‰|†Žvuˆ€{wŠx—–tŠ—•”„„„ˆ€{’—‚k~ˆ{}‰žŠ{Ž‚Ž~—Š|•ˆqyœ…z—vr‹‡ˆ}s”š€‚’ƒ‹‹‹y}ˆ{Šn‡w‘Šˆ–†žŽ‡‘€“˜‰x•‡•ˆ{|Œw’{v–•“‚‚˜Š€l„‚ƒ‡w€ˆ”“|{r•”„„”~ƒ‘~—}—Ÿ‰œŒ€˜ŒŒ™~x˜]w€‚†‘ˆ{‡˜‘š‹£ƒ†ž™{¥ˆ›ˆx‹„x£’…z…”ˆ†{u~|}’–•ˆ…w‰Œ„rš ‚{…Œ‰Œy€‰—„‹Œ‘’„…x”Œ‡‹~Œ•~“‡‚’‡–‡…t‘„‰‹‡zŒ…z‘oœsn“‰rqg—‚„’˜Žuzš{‚Ž‚ˆ~‹rqˆyŒŒ•Ž„r„z|g‘—xŽœ‚{‡•‚‰sˆš‚–„Œ™Œh’†qƒ†„’„v‘’~m†k‹„„ |‡wŽ˜‚ts€„‘v||‹{{yŽ…„„s€ŠœkŽ€v—–o…†„}y‚t–’x…€}‹ŒxŒz‡ˆ~‰“y†Šdˆ†„‚yyyu‰y€’…ƒ~€{€“z˜~…—~t‡“x›vm{|{xŒ…‹Š|†‡qƒx„‚†‹|‰t~rŽžsuy…~„““›uŒŒ‹|Œ‹Š‡Œ€…’‡™‹’’…wˆ…tŠ‹Š‰……ƒ“‡„‹‘Ž}Ž‹’Ž˜ˆ†Š–†…„‚Š†…‰‰Š‰‘Š‘€‚Œ‡’†ƒƒ‡•‚“Š†„’Ž‘ŽŠ‰‹Š…“Ž‹ˆ€Œ‰vŠ‡ˆuŠ„‰€Œ‰‚–†—‰’Ž†ŠŒ‡”ˆ†Š‹‡†~}‹•‘ˆŠˆ…‰‘Ž‘ŠŽŽ‡ŠŽŒ—Œˆ„Š……‹‡ˆ‡Šˆ“ˆˆ‰ŠŠŠŠ‘—…vž‘‚‰‰ˆ„ˆŽ…‹Ž…‚Š‰Š†‰€ŒŽŽ’ŽƒŠ’„‹ˆ~‡|Ž}›™‡„‡‚Ž‚˜sm€Šƒ{sn“ˆ“Š€€¡z€’€‡ƒ€t‚‘„‚Š‘€’ƒv‹ŠŠŒgŠ‡†Š‰Š„||†ƒŠ…š“‰kxŒ‚}Š€Œˆ|zq‰€‹n˜€{”•‡~Š‰˜„ƒ|w‰{}€„Š•Œ‚‹tyˆ†q•g„‘}‡}}Žq€ƒtq€†‰€ˆˆ€vŽ†}|‹|x}ƒ†~’‹‚‡‡{„Ž†zŒ‡‚Žz‚~y‚ˆ|†qƒƒŽ’‡†…‰~€‰Ž‹€Œ„…p~~…‰‹Ž……Šƒ„x€“{}Šy†““†~…‰‚z‚„…”††‡‡‚‚„…ƒ‹€Šƒ‡ˆ{Œˆ†‹}…ˆ‡†„ˆ…‰‡‰Ž‚Œ‹Ž„‡Šƒ…ƒ†‹‡…„†ˆ„~‰z…{‡‚}‰‘ˆ‰…ŠƒŒy…—“‰……€Ž~ƒqŠ„‰ƒƒ‰ŽŒ‡y‡Š‹}‘‡„‰’v‹†‚ˆ‚—„‚†‡ˆˆ…ˆ‡‰ŠŽˆz‡…‡ƒ„ƒzy…uŽ‹…’ƒ~ˆ‡{…‰††Ž“„‘ˆ…‡‰†„ˆˆ„Ž……†€„{ˆ…„ƒty‹}‘……†Ž‰‡ˆ…„‡‚†ŠŠ„†…ˆ‚’}…‡€Œ…ŠˆŠ†—†‰‡ƒ‰‡xŽŠ“˜„ƒ‡|}Ž‚ˆr’†•˜‡{ƒ‡€‚t‘‰‘‚’…•’‡†“ƒlm•…‡„r|‚“‚}‘‡¢‚‘ˆ——Šn†y—u˜}Žƒ“Mwš—™£‘|~Žt’Šƒƒw›“zƒ}ƒ‹†€‡š—œ†ˆ¡‡……“}…x”•…}‹™†l•’„Š|•• or”Ž… Ÿ‡‹†zx˜ŒŽŠw‚Œ€|’……’‡…‡›…{ƒ|„Šš‡•Œt‘~ˆ¬‘‘¨‡†“”Š…€±w‰x”œš}ƒz—€†”…uo™v–ƒ„~‹„“~Žƒ†~ƒ¨‡{x‘ˆ~Œ®›y‰sˆ|š‰Š€‡|ƒ‰‚Œ{e€ƒ†‡syˆŠs•‰‘r{¢y…Œ|‹€u€ˆ}~’‘…}Œotuw™Š•˜™„wŒuŸ}‚©‚†Ž“‚s‚…xtŠ—’‘ƒ|r‘‹x†{“k€‹™“Š‰ˆtŒŒŒ}‚z‰Œr‡…€ƒ…’ˆŒ„…r†ŠqŠ{~Š‰~sŽ„v}Œs~‰‚œu…“st˜yŽš{}ˆƒ~{|{y{„€|‡‘{v‘}„}†¢€~{‹‡‘…‘‚†“‰}†…€“˜x{zˆzx’„ˆ€‰‰{ƒq€ƒˆŒ†‡zŠ†tfwŽ‰‡{…x~Ž”—~‡‡ˆ“‹Ž‰‹‹ŒyŒ~‰†„……Ž‡‚ˆ‰}ƒ‹‚–†‹‰Š€Š”‚t‰„˜–†‹ŽŒ€‡‰|‹‚€†•ˆ†—€•‹˜ˆ{–˜‡‡‘Œ†ˆŠ„s†…‡„‰xy—„‡Š…€Ž‰„|…‚ˆ†˜~“‡††‘Žsƒ‡™‚†€uŒ’yƒˆ|u€‰€’z…„—†z†~z ~~†„†˜‹“zš‰v†ˆ‡ˆ|‰‚‹|w}•…ˆ’‡xŠ…‘‘—„ˆx‘™{Œˆ‰~‡†~c~yƒƒ|„‹Ž†…z†{z†‡•Ž{Œ‘{‹„ŒƒŠ‡žy|…xˆ”˜‹…~ŽuŠˆˆ|zžw‡€|x‡ˆ‚ro‰€‡ˆt~†’’ƒ‡s~ƒ}€ “ƒv–’“’†‘”—ŒŒ„Ž‚x‚‡Ž†~•~v‰”Œ…‚‹Ž–~•’y‹t‡Ž‡}Ž€‡w}~…{‹ƒ‚~€{†{šŠˆ†{„z‡‚‘y“pŒŽ‚ˆŒŠ„x€yŸ‰{}‚…ƒ‡„uŒŠj‹ˆ‰Žxs‰uiŠkŠs˜}‹Ÿˆ„ˆv‹z†}‚~…†‰{y~z˜‘†}{€’†„…„†ƒ’z{qx}y‰{Œ„}†‡†–t|™Žˆƒƒz“Žxˆ|fˆŽ‡™ˆŒ†‰†††††††††††††††‡†††††††††‡†††††††††††††††††††††††††††††††††††††††††‡‡†††……††
+'use strict'
+
+process.env.BABEL_ENV = 'renderer'
+
+const path = require('path')
+const { dependencies } = require('../package.json')
+const webpack = require('webpack')
+
+const BabiliWebpackPlugin = require('babili-webpack-plugin')
+const CopyWebpackPlugin = require('copy-webpack-plugin')
+const MiniCssExtractPlugin = require('mini-css-extract-plugin')
+const HtmlWebpackPlugin = require('html-webpack-plugin')
+const { VueLoaderPlugin } = require('vue-loader')
+
+/**
+ * List of node_modules to include in webpack bundle
+ *
+ * Required for specific packages like Vue UI libraries
+ * that provide pure *.vue files that need compiling
+ * https://simulatedgreg.gitbooks.io/electron-vue/content/en/webpack-configurations.html#white-listing-externals
+ */
+let whiteListedModules = ['vue']
+
+let rendererConfig = {
+  devtool: '#cheap-module-eval-source-map',
+  entry: {
+    renderer: path.join(__dirname, '../src/renderer/main.js')
+  },
+  externals: [
+    ...Object.keys(dependencies || {}).filter(d => !whiteListedModules.includes(d))
+  ],
+  module: {
+    rules: [
+      {
+        test: /\.(js|vue)$/,
+        enforce: 'pre',
+        exclude: /node_modules/,
+        use: {
+          loader: 'eslint-loader',
+          options: {
+            formatter: require('eslint-friendly-formatter')
+          }
+        }
+      },
+      {
+        test: /\.scss$/,
+        use: ['vue-style-loader', 'css-loader', 'sass-loader']
+      },
+      {
+        test: /\.sass$/,
+        use: ['vue-style-loader', 'css-loader', 'sass-loader?indentedSyntax']
+      },
+      {
+        test: /\.less$/,
+        use: ['vue-style-loader', 'css-loader', 'less-loader']
+      },
+      {
+        test: /\.css$/,
+        use: ['vue-style-loader', 'css-loader']
+      },
+      {
+        test: /\.html$/,
+        use: 'vue-html-loader'
+      },
+      {
+        test: /\.js$/,
+        use: 'babel-loader',
+        exclude: /node_modules/
+      },
+      {
+        test: /\.node$/,
+        use: 'node-loader'
+      },
+      {
+        test: /\.vue$/,
+        use: {
+          loader: 'vue-loader',
+          options: {
+            extractCSS: process.env.NODE_ENV === 'production',
+            loaders: {
+              sass: 'vue-style-loader!css-loader!sass-loader?indentedSyntax=1',
+              scss: 'vue-style-loader!css-loader!sass-loader',
+              less: 'vue-style-loader!css-loader!less-loader'
+            }
+          }
+        }
+      },
+      {
+        test: /\.(png|jpe?g|gif|svg)(\?.*)?$/,
+        use: {
+          loader: 'url-loader',
+          query: {
+            limit: 10000,
+            name: 'imgs/[name]--[folder].[ext]'
+          }
+        }
+      },
+      {
+        test: /\.(mp4|webm|ogg|mp3|wav|flac|aac)(\?.*)?$/,
+        loader: 'url-loader',
+        options: {
+          limit: 10000,
+          name: 'media/[name]--[folder].[ext]'
+        }
+      },
+      {
+        test: /\.(woff2?|eot|ttf|otf)(\?.*)?$/,
+        use: {
+          loader: 'url-loader',
+          query: {
+            limit: 10000,
+            name: 'fonts/[name]--[folder].[ext]'
+          }
+        }
+      }
+    ]
+  },
+  node: {
+    __dirname: process.env.NODE_ENV !== 'production',
+    __filename: process.env.NODE_ENV !== 'production'
+  },
+  plugins: [
+    new VueLoaderPlugin(),
+    new MiniCssExtractPlugin({filename: 'styles.css'}),
+    new HtmlWebpackPlugin({
+      filename: 'index.html',
+      template: path.resolve(__dirname, '../src/index.ejs'),
+      minify: {
+        collapseWhitespace: true,
+        removeAttributeQuotes: true,
+        removeComments: true
+      },
+      nodeModules: process.env.NODE_ENV !== 'production'
+        ? path.resolve(__dirname, '../node_modules')
+        : false
+    }),
+    new webpack.HotModuleReplacementPlugin(),
+    new webpack.NoEmitOnErrorsPlugin()
+  ],
+  output: {
+    filename: '[name].js',
+    libraryTarget: 'commonjs2',
+    path: path.join(__dirname, '../dist/electron')
+  },
+  resolve: {
+    alias: {
+      '@': path.join(__dirname, '../src/renderer'),
+      'vue$': 'vue/dist/vue.esm.js'
+    },
+    extensions: ['.js', '.vue', '.json', '.css', '.node']
+  },
+  target: 'electron-renderer'
+}
+
+/**
+ * Adjust rendererConfig for development settings
+ */
+if (process.env.NODE_ENV !== 'production') {
+  rendererConfig.plugins.push(
+    new webpack.DefinePlugin({
+      '__static': `"${path.join(__dirname, '../static').replace(/\\/g, '\\\\')}"`
+    })
+  )
+}
+
+/**
+ * Adjust rendererConfig for production settings
+ */
+if (process.env.NODE_ENV === 'production') {
+  rendererConfig.devtool = ''
+
+  rendererConfig.plugins.push(
+    new BabiliWebpackPlugin(),
+    new CopyWebpackPlugin([
+      {
+        from: path.join(__dirname, '../static'),
+        to: path.join(__dirname, '../dist/electron/static'),
+        ignore: ['.*']
+      }
+    ]),
+    new webpack.DefinePlugin({
+      'process.env.NODE_ENV': '"production"'
+    }),
+    new webpack.LoaderOptionsPlugin({
+      minimize: true
+    })
+  )
+}
+
+module.exports = rendererConfig

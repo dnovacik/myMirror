@@ -56,6 +56,7 @@
     }
   },
   "dependencies": {
+    "@saeris/vue-spinners": "1.0.8",
     "axios": "^0.18.0",
     "face-api.js": "0.21.0",
     "moment": "2.24.0",

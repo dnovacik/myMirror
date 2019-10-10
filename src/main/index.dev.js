@@ -1,26 +1,24 @@
-var toString = require('./toString');
-
 /**
- * Used to match `RegExp`
- * [syntax characters](http://ecma-international.org/ecma-262/7.0/#sec-patterns).
+ * This file is used specifically and only for development. It installs
+ * `electron-debug` & `vue-devtools`. There shouldn't be any need to
+ *  modify this file, but it can be used to extend your development
+ *  environment.
  */
-var reRegExpChar = /[\\^$.*+?()[\]{}|]/g,
-    reHasRegExpChar = RegExp(reRegExpChar.source);
 
-/**
- * Escapes the `RegExp` special characters "^", "$", "\", ".", "*", "+",
- * "?", "(", ")", "[", "]", "{", "}", and "|" in `string`.
- *
- * @static
- * @memberOf _
- * @since 3.0.0
- * @category String
- * @param {string} [string=''] The string to escape.
- * @returns {string} Returns the escaped string.
- * @example
- *
- * _.escapeRegExp('[lodash](https://lodash.com/)');
- * // => '\[lodash\]\(https://lodash\.com/\)'
- */
-function escapeRegExp(string) {
-  string = toS
+/* eslint-disable */
+
+// Install `electron-debug` with `devtron`
+require('electron-debug')({ showDevTools: true })
+
+// Install `vue-devtools`
+require('electron').app.on('ready', () => {
+  let installExtension = require('electron-devtools-installer')
+  installExtension.default(installExtension.VUEJS_DEVTOOLS)
+    .then(() => {})
+    .catch(err => {
+      console.log('Unable to install `vue-devtools`: \n', err)
+    })
+})
+
+// Require `main` process to boot app
+require('./index')

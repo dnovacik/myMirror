@@ -63,6 +63,7 @@ export default {
   created() {
     moment.locale(config.config.language);
     this.getDateAndTime();
+    this.$store.dispatch('updateClockData');
   }
 };
 </script>
@@ -71,8 +72,7 @@ export default {
 .wrapper {
   display: flex;
   flex-direction: column;
-  align-items: center;
-  width: 300px;
+  width: 350px;
   margin-bottom: 50px;
 
   .date-part {
@@ -85,6 +85,7 @@ export default {
     flex-direction: row;
     font-size: 60px;
     color: #fff;
+    justify-content: center;
 
     .seconds {
       font-size: 24px;

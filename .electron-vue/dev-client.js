@@ -1,34 +1,40 @@
-var escapeHtmlChar = require('./_escapeHtmlChar'),
-    toString = require('./toString');
+const hotClient = require('webpack-hot-middleware/client?noInfo=true&reload=true')
 
-/** Used to match HTML entities and HTML characters. */
-var reUnescapedHtml = /[&<>"']/g,
-    reHasUnescapedHtml = RegExp(reUnescapedHtml.source);
+hotClient.subscribe(event => {
+  /**
+   * Reload browser when HTMLWebpackPlugin emits a new index.html
+   *
+   * Currently disabled until jantimon/html-webpack-plugin#680 is resolved.
+   * https://github.com/SimulatedGREG/electron-vue/issues/437
+   * https://github.com/jantimon/html-webpack-plugin/issues/680
+   */
+  // if (event.action === 'reload') {
+  //   window.location.reload()
+  // }
 
-/**
- * Converts the characters "&", "<", ">", '"', and "'" in `string` to their
- * corresponding HTML entities.
- *
- * **Note:** No other characters are escaped. To escape additional
- * characters use a third-party library like [_he_](https://mths.be/he).
- *
- * Though the ">" character is escaped for symmetry, characters like
- * ">" and "/" don't need escaping in HTML and have no special meaning
- * unless they're part of a tag or unquoted attribute value. See
- * [Mathias Bynens's article](https://mathiasbynens.be/notes/ambiguous-ampersands)
- * (under "semi-related fun fact") for more details.
- *
- * When working with HTML you should always
- * [quote attribute values](http://wonko.com/post/html-escaping) to reduce
- * XSS vectors.
- *
- * @static
- * @since 0.1.0
- * @memberOf _
- * @category String
- * @param {string} [string=''] The string to escape.
- * @returns {string} Returns the escaped string.
- * @example
- *
- * _.escape('fred, barney, & pebbles');
- * // =>
+  /**
+   * Notify `mainWindow` when `main` process is compiling,
+   * giving notice for an expected reload of the `electron` process
+   */
+  if (event.action === 'compiling') {
+    document.body.innerHTML += `
+      <style>
+        #dev-client {
+          background: #4fc08d;
+          border-radius: 4px;
+          bottom: 20px;
+          box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.14), 0 1px 10px 0 rgba(0, 0, 0, 0.12), 0 2px 4px -1px rgba(0, 0, 0, 0.3);
+          color: #fff;
+          font-family: 'Source Sans Pro', sans-serif;
+          left: 20px;
+          padding: 8px 12px;
+          position: absolute;
+        }
+      </style>
+
+      <div id="dev-client">
+        Compiling Main Process...
+      </div>
+    `
+  }
+})

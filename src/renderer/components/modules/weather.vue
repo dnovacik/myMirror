@@ -51,7 +51,7 @@ export default {
 .wrapper {
   display: flex;
   flex-direction: column;
-  width: 300px;
+  width: 350px;
   margin-bottom: 50px;
 
   .wrapper-header {

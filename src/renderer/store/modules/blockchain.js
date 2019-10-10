@@ -1,21 +1,55 @@
-var baseFlatten = require('./_baseFlatten'),
-    baseIteratee = require('./_baseIteratee'),
-    baseRest = require('./_baseRest'),
-    baseUniq = require('./_baseUniq'),
-    isArrayLikeObject = require('./isArrayLikeObject'),
-    last = require('./last');
+import { blockchainService } from "./../../services/blockchain.service";
+import blockchainModel from "../../models/blockchain/blockchain.model";
 
-/**
- * This method is like `_.union` except that it accepts `iteratee` which is
- * invoked for each element of each `arrays` to generate the criterion by
- * which uniqueness is computed. Result values are chosen from the first
- * array in which the value occurs. The iteratee is invoked with one argument:
- * (value).
- *
- * @static
- * @memberOf _
- * @since 4.0.0
- * @category Array
- * @param {...Array} [arrays] The arrays to inspect.
- * @param {Function} [iteratee=_.identity] The iteratee invoked per element.
- * @returns {A
+const state = {
+  bitcoinPrice: blockchainModel,
+  errorMessage: null,
+  isGettingPriceData: true
+};
+
+const getters = {
+  gettingPriceData() {
+    return state.isGettingPriceData;
+  },
+
+  bitcoinPrice() {
+    return state.bitcoinPrice;
+  }
+};
+
+const actions = {
+  updateBitcoinPrice({ commit }) {
+    commit('updateBitcoinPriceInitiated');
+    blockchainService.updateBitcoinPrice()
+      .then(model => {
+        commit('updateBitcoinPriceSuccess', model);
+      })
+      .catch(err => {
+
+      });
+  }
+};
+
+const mutations = {
+  updateBitcoinPriceInitiated(state) {
+    state.isGettingPriceData = true;
+  },
+
+  updateBitcoinPriceSuccess(state, model) {
+    state.weather = model;
+    state.isGettingPriceData = false;
+  },
+
+  updateBitcoinPriceFailure(state, err) {
+    state.weather = weatherModel;
+    state.isGettingPriceData = false;
+    state.errorMessage = err;
+  },
+};
+
+export default {
+  state,
+  mutations,
+  actions,
+  getters
+};

@@ -6,12 +6,12 @@ const state = {
   weather: weatherModel,
   forecast: forecast,
   errorMessage: null,
-  isGettingData: false
+  isGettingWeatherData: true
 };
 
 const getters = {
-  gettingData() {
-    return state.isGettingData;
+  gettingWeatherData() {
+    return state.isGettingWeatherData;
   },
 
   weather() {
@@ -49,32 +49,32 @@ const actions = {
 
 const mutations = {
   updateWeatherInitiated(state) {
-    state.isGettingData = true;
+    state.isGettingWeatherData = true;
   },
 
   updateWeatherSuccess(state, model) {
     state.weather = model;
-    state.isGettingData = false;
+    state.isGettingWeatherData = false;
   },
 
   updateWeatherFailure(state, err) {
     state.weather = weatherModel;
-    state.isGettingData = false;
+    state.isGettingWeatherData = false;
     state.errorMessage = err;
   },
 
   updateForecastInitiated(state) {
-    state.isGettingData = true;
+    state.isGettingWeatherData = true;
   },
 
   updateForecastSuccess(state, model) {
     state.forecast = model;
-    state.isGettingData = false;
+    state.isGettingWeatherData = false;
   },
 
   updateForecastFailure(state, err) {
     state.forecase = forecase;
-    state.isGettingData = false;
+    state.isGettingWeatherData = false;
     state.errorMessage = err;
   }
 };

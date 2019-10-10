@@ -1,1 +1,190 @@
-•“‘x‚ƒ‹‡ŠŠt‘v‚†‚ww…‹‚|‚’ˆœ‹v}‹€ƒ“ˆ„ƒŠts‹‚‡}ˆ‰|Œ}}Œ‘ƒ…r‹Š“„›˜„•‚Œ‡…Žžƒx–„„‡‹t‰“‘‰Š|v“‰‰~‡”‹‚zŒ–ƒˆŠ‡†Š——†ƒs‹˜Œvƒ‰ƒ„‰ˆq˜—„‹ˆ–•„ˆƒ’x~–ˆX‘”ƒ†‡“„‘}‘‰Š•—ˆŽ‚”•’ŠŒ˜‰‹…•‹ˆŒ’‹‰|ƒƒ|’‹†”‚Š„~Š‡™~“„—~“Ž„n‹Šw“”{|€†–‹‰Š‘Œq||‚ƒ‡ˆ…ˆ†ŒŽ‹‹Š€}‹Šˆ“‘€Ž}€ˆ|z‰˜„z„‰ˆ”}Š‹‡‡|‚“‰ŒŠ”Šy…‚†™Ž’Š†Š‡†“Žx…”›••€|{‡ˆ•˜‰„‘w|„|ˆ‚…{z…‹”““ƒ‚{z„}Ž…„™~…‡‹‹‡‹’Šy‘“…’‹‹Œ’‡qŽƒ‹}{˜Šˆ‹„………Œ‡x™‰€‚…˜{—‡ŽŠ‹—„“‹ˆ‡‹”‹‘†††ˆz“}sŠŒƒ’“‹™Ž‹’Œˆ…‡ˆ{Œ†“‰‚zƒ…|†‹‚†‚Ž„’……Ž‡Š~{‘„†€†‘„…}‚“ƒ‘Š™‚ƒ¸zH†…ŠO‹ƒ†‘‚ˆ‚‹‹‡~Ž‰Ž–w‹‰ƒ€ƒƒ…‡€”Žx’§Ž‰‚‚’•ƒˆ~ˆ†t‚—‚’Žx˜€‚šwy’’†¥ˆ­vŽe—ez„„}|}Ž{s…‚——u‡w‡†›x€—…}{m~x“rƒ€Š”w†”ˆx…ŠŽ‰–…‘t¦˜v|le”{t}m€f€Žƒ–ž‰²k†˜¢Œ…’˜„‡«ž¦Ž‡ª‰gy“‹lgfƒ™}„zƒolqƒsƒ‡fŽˆ‚‡‰šu†††u…}ž‰}“‡„†…Œw~w†|xpŽz©ˆ[qš‹r˜x‡”‡‹‚“ˆ…ˆ‹ŠŒ‚Š‹…‰‘‰‡Œ’”y’ˆt‡†‡‡ˆ„„ŠŠ‹‰ˆŽ•…ŠŽ†‚ˆˆŠŽŒ˜‡Œ‰…‹€‚„„‰‰ˆƒˆŠŒ‰…“ˆŽ““•Š”‡Ž‹‡‰—Œ‡ˆŽ•ˆŽŒ‹€‡“‡Š‡}‰Ž“…x‹…Œ}†Œ‰…†Š…•‰”ŠŒ‡ˆ~„‹‡ŒŠƒ‡|‰„€ŒŽ‘†„ŠŽˆ‹‚†ŽŠ”…‹†……‚•‹ŒŠŽŠŒˆŽ‹‡‘”…“Ž‰…ŒŒ„Œ‹…Œƒ—Š•Ž†Œ|“–ƒ†…‡Ž‡ŠŠˆ‘Š‡Š‹‹ˆ‰Š~„Œ‰’ŽŠ‚Ž†ˆ†”„…‡‡~ˆ†Œ‚|ˆ‚z‚“ŠŒŒ€„†„†”‚ˆ‡ˆ‡„‹…z‚Œzˆ„‚‰‡€–Œ“‡…‹…‚•w†ŒŠ—†††‡Œ”Œ}‡‘s†Œ™Š‰ƒ†ˆ}€…~Œ|‘†††ˆ†u€ƒ‹Ž•‚~„˜‹‡€‰Œ„‹…†…Š„€‚‚ŒxŒ{Œ{qŒ„ƒ‡“Ž˜‡•ƒ”z…–’…œw}v…—‹r‡~š€ƒ‚sƒ„~}€ƒ‹ˆx„Œz’pv€”x‚š„…†‘–„€Žšw…yw“Š–…~Š†‰~ˆ„„z’„˜Š‰Ž›…††~{ˆŽ}ŒŒš“††††††††…††…†††‡††††††††††‡††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††‡††††††††††††††…††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††„…‹ƒ…††‰‡†……††††‡†ˆ††……„†ˆ‡†ƒ…†††‡ˆ†††††††…†‡††††…‡‹†‡……†††„††…†††Š†……†††††††Œ††…††††„†††ˆ††…†…†‡†…†…„†…†††††††††………††ˆˆ†††Š†††††††„†…†††…††ˆ……††ƒ†…††††††††††††††††††††††‡†††ˆ†††††††‡†††…††…†††††††††††††††††…††††††‡††††††‰…†…††††††……†††…†††…††††††…††††…†Š“‡ow†ˆŒ‹™Ž‡Œ‡Š„…‡‚ˆ‹Ššz’ˆvv›Š—‘ˆ…•«†‰Ž‡uŒƒŠ‰“‡•‚Œ|z‰’ƒš…‹w…‡~‘Ž~’o†z•t‹‘€”‹Œ‹Žž”’‡~z‹‡y‰ˆŠ‹˜}y‘t˜“š}‰Šw’t˜ˆ‹‚~‘~|‹ŽŠ”Œ‚’{‡v†‰}Š‹Œp‰“…z‹~šˆ™€’”}Š™‚’|~kŒzŒ“w”‹}Œ’•‹˜’Š†ƒŒ„„‡ˆ’“…Ž……ƒ–€†o„šxŸ†‚•|‹‘‡‘€†€™ƒ}}¥‰}‡‚„œv~…ƒ„…ˆ’’„„’Š‰ŠŽŒ‡†ƒ‹Žƒ‡‘‰‹ˆ‰™‚s†‡qŽ„‹Œƒ…„‘……ƒŒ‘‘ŠwŠ€†ˆŽŽŒ™‰Š…‰„‰ƒ‰–Š‰„’‹‹‹ˆˆŠƒ~†“…Š‡‹“‹‹ˆ‡ˆ”‹‡ˆ‹ŽŒ•‡Š~Œ““ŠŠz‰Š‘†v“Žzˆ’„…„”‰…‡‡‡–ŒŠ…‰ƒ‰…•ŒŠˆ„ˆ‹‰†™“‰„…‡‰zŠ•Š“‹}„‰ˆŒ‘†‰…‰‘ˆ„ˆŽƒzŒ„‹““‹“ˆŒ‹—‰—€‹ˆ~—ˆ•‡ˆŠˆ‹Œ‹‡‰‘„•‹‘„“Œ†ƒ}‹‘ˆ…Š„‘‹Œ’‹‘†††‰‰ƒ††‡†††…††‡†††…†‡†††…ˆ‡†‡‡ˆ…†††……†††††…†ˆ†‡………‡†††††††……††…†…†‡†††……†††††…††††…†††‡†††‡†…††ƒ‡††…†‡‰†‡††††††††…†††††„…†††ˆ††‡††††‡†††††††‡†‡†††„††††††††††††††††††††††††‡†††ˆ…†‡†††„††††††††††††…‡††††††††‡†††††††††††††††…‡††††††††††††††††‡††‡†††††…†††‡††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††††…†††††††††††††††††††‡††††††††‡†††††††††††…††††††††††††††††††††††††††††††††††††††††††‡†††††††††††††††††††††††††††††††††‡†˜‡ŽŠ{—‘‰ˆ‡–‹}†Š|”““~‡‡‰‰–‘‰™“‚Š˜Œ††x„‰„‡…‚Š‘sŽŒŒ…‚zŒ†€Œu‡’„‰Œ}‹‚Œ‰ˆ‚–w“ƒq‚ƒˆŠ‹m‰ƒpp—ˆŠt‰†|‡ŒŒ}“†„‘–q•ƒ’‹‹ŒŽ“€ˆ~†ŽŽ‰„ŽŽŒ’y“||Š…‰‡ƒ|~t}’‹Š‘‡zt””ˆ’Ž‹”Œ˜‡˜‹”ŒŠ…ˆŽ’€‰†ƒ…Š…††|Ž›„p‰ŒŠ€‡ˆ”…€–‚”…Žˆ‘‰Š’oƒŠƒx‹‡‘{zˆ……‹‡…†…††††††‡†††‡††‡††††††††††…††††††††‡†††††††…†††††††‡††…††††††††††††ˆ††††††††††††††……††††††††††††…††††††…†…††††††††††††††‡†††††††††‡††††††…†††††††††††††††††††††††††††††††††…††††††††††††††††††††‡…†††††††††††††††††††…††††††††††††††††††††††††††††††††††††††††††‘v‡ŒŠŠwŽ‚{€wƒ‰Ž…{v~ƒ‰‰ˆ‡„†‹y‚z„Œ—‘w…}ƒ–ŒœŒŠ„‚Š‰‡x“Ž‘ƒ…|†‹˜”ˆˆ…‘‹uˆ{•€†……|‰…‘ˆ„|•{‹}Œ…ŽŒyƒ†‰“ƒ•†€’‘†}‡’…‰‘Š†‡“ˆ…q…‰‰wx”‚|‘~{‰ˆŽ†…w•}}‰Šƒ•‰‘„ˆ‰„’ˆ‚†ŠŠŽ‘Š•ƒƒ“ƒ}‹‰{{y‹‚Œ‡—ŒŠ•€‚ŠŽ†|Ž‰„|~„‚x‰€Œ††‰”„€„‰‰€ƒƒ‹Œ‰€„‡„†‡„‡‘™ˆŽˆ‡…’’Šˆ…Ž‰‰x“ƒ‚yˆ’Šˆ’Ž—‰‹›”{„“‹Ž†}~ˆ‡†u…ŒŽ†xƒ˜‹‹†x‚‡‚‰‰‡sˆ‡Ž…“ƒ†’‡ƒ™|‘†t‰ƒ…‹qŠ‘ƒŽqu’Œ…vƒ•‰~†ˆz…“Š…ˆw…Œ‰†‡Ž’ƒŽˆ„‹Šƒ“‹Œ‡Ž“{’‰‡z‘‹Œ„„}‰‹„‰ˆ””‡‹}•’Œ‰˜~Ž„†“Œ‡˜ƒŒŒƒ~Š‡ˆ’’”ŠŠ‡z‡“ŠpŠŠŒŠ†Œ”w—Š’ˆ…Ž‡„y}Ž€{–„ŒŒ|‡‚‰Žˆƒ„Š‡‡Šˆ…‡’„|ƒŠ‚ƒˆ“‰ŠŒŽ’†r‹ˆ„pˆ‚…‡ƒ…‡ŠˆŠ‘Œ}‡Šˆ“‹ŠŠ•‰Œ…‡‹…‰‰„x‚‹‡ˆ‹‹†‘…‰Œ‰ƒ€ƒ“€ŽŠ‰‰š–†Œ‘‰ŽŠ“‹‰Œ…—ƒ†‡Š‡‡ˆ‰Ž…t‹“Š~‰Ž†Š‘†ƒ†’‰ˆ–Œ‚…ƒ{ƒ††ŽŽˆ‡|‰†‰ˆ“‡„ŠŽ†ˆ‘Š‘Œ…‚‰‡Š‹‰Œ‹‚‡Œ•‹‡†„ŒŽƒŒŠ…‡‡Š’’Ž‡‰Š‹ˆŒ‰™‰’Ž††™Œ’…‡†‰ƒŒ†„Š‡•ƒ‡‡ˆ“††Œ†‘Š†–‚‘‡‡”Œ•”‡…†ƒ~‹‹‹ŒŠŠ‘„—}|•~Œ}{yˆ’™€Žˆ‰‰€šŠ‹‹—…ˆ}„„€‹‡”x’…‰†r…Œƒ‚†yŠ‹Œ€ŠŽ€†‘{˜y…zt•™Š‹‚u…„}qu€Šrˆ•w’„‘ŽzŽ‰Œ‹ŠŽ‚t„‡‡}‡‰‰‰‡ˆ…ƒ~Ž‰‚‡„‡‘š‹ŒˆŽ‘‡t‘v‹ŠŒƒ„‹•y‡Ž—Š„ƒ~‘•‹‚Š‡’Œˆ„‡Ž”‘†„‚ˆŽ‘‰‡…‰€ŽŽ“ƒ{ˆˆ€rˆ~Ž…ƒ“‹€|“ƒ‘ŽŒŠ…Š‘‚…ˆq•„‡Š~‰{…‹‘€‰‚‚˜‚žˆ™“g„”’…ˆ˜‰©—›„‰„sw‘‡€ Š|“–‡›˜yŠ‰…Œ ~ƒŠŒ…”Ž‡{†r“†tŽ‹ˆt€”ˆ{t…ƒ}—x…ŒŽ‘™Œ˜Œˆ€}‡†”†‚‘„‚…•ŒŒ—ŽŒoš}”Ž—ƒ|{Ž‹Œ“p‰‡‹‡†ˆn”„…„Š‰€ž˜x¢—y„‡˜œŠ˜‰txœ”Ž†‰‘{—}ˆ–‹yƒt{‡~˜”…‘Ž—–„‰’™—y{†t›† nv‡’f„Š~Š•„†™yqŠx‹„z…Ÿ“‚}‹…‘ž–š‘‚|ˆˆ…
+'use strict'
+
+const chalk = require('chalk')
+const electron = require('electron')
+const path = require('path')
+const { say } = require('cfonts')
+const { spawn } = require('child_process')
+const webpack = require('webpack')
+const WebpackDevServer = require('webpack-dev-server')
+const webpackHotMiddleware = require('webpack-hot-middleware')
+
+const mainConfig = require('./webpack.main.config')
+const rendererConfig = require('./webpack.renderer.config')
+
+let electronProcess = null
+let manualRestart = false
+let hotMiddleware
+
+function logStats (proc, data) {
+  let log = ''
+
+  log += chalk.yellow.bold(`â” ${proc} Process ${new Array((19 - proc.length) + 1).join('-')}`)
+  log += '\n\n'
+
+  if (typeof data === 'object') {
+    data.toString({
+      colors: true,
+      chunks: false
+    }).split(/\r?\n/).forEach(line => {
+      log += '  ' + line + '\n'
+    })
+  } else {
+    log += `  ${data}\n`
+  }
+
+  log += '\n' + chalk.yellow.bold(`â”— ${new Array(28 + 1).join('-')}`) + '\n'
+
+  console.log(log)
+}
+
+function startRenderer () {
+  return new Promise((resolve, reject) => {
+    rendererConfig.entry.renderer = [path.join(__dirname, 'dev-client')].concat(rendererConfig.entry.renderer)
+    rendererConfig.mode = 'development'
+    const compiler = webpack(rendererConfig)
+    hotMiddleware = webpackHotMiddleware(compiler, {
+      log: false,
+      heartbeat: 2500
+    })
+
+    compiler.hooks.compilation.tap('compilation', compilation => {
+      compilation.hooks.htmlWebpackPluginAfterEmit.tapAsync('html-webpack-plugin-after-emit', (data, cb) => {
+        hotMiddleware.publish({ action: 'reload' })
+        cb()
+      })
+    })
+
+    compiler.hooks.done.tap('done', stats => {
+      logStats('Renderer', stats)
+    })
+
+    const server = new WebpackDevServer(
+      compiler,
+      {
+        contentBase: path.join(__dirname, '../'),
+        quiet: true,
+        before (app, ctx) {
+          app.use(hotMiddleware)
+          ctx.middleware.waitUntilValid(() => {
+            resolve()
+          })
+        }
+      }
+    )
+
+    server.listen(9080)
+  })
+}
+
+function startMain () {
+  return new Promise((resolve, reject) => {
+    mainConfig.entry.main = [path.join(__dirname, '../src/main/index.dev.js')].concat(mainConfig.entry.main)
+    mainConfig.mode = 'development'
+    const compiler = webpack(mainConfig)
+
+    compiler.hooks.watchRun.tapAsync('watch-run', (compilation, done) => {
+      logStats('Main', chalk.white.bold('compiling...'))
+      hotMiddleware.publish({ action: 'compiling' })
+      done()
+    })
+
+    compiler.watch({}, (err, stats) => {
+      if (err) {
+        console.log(err)
+        return
+      }
+
+      logStats('Main', stats)
+
+      if (electronProcess && electronProcess.kill) {
+        manualRestart = true
+        process.kill(electronProcess.pid)
+        electronProcess = null
+        startElectron()
+
+        setTimeout(() => {
+          manualRestart = false
+        }, 5000)
+      }
+
+      resolve()
+    })
+  })
+}
+
+function startElectron () {
+  var args = [
+    '--inspect=5858',
+    path.join(__dirname, '../dist/electron/main.js')
+  ]
+
+  // detect yarn or npm and process commandline args accordingly
+  if (process.env.npm_execpath.endsWith('yarn.js')) {
+    args = args.concat(process.argv.slice(3))
+  } else if (process.env.npm_execpath.endsWith('npm-cli.js')) {
+    args = args.concat(process.argv.slice(2))
+  }
+
+  electronProcess = spawn(electron, args)
+  
+  electronProcess.stdout.on('data', data => {
+    electronLog(data, 'blue')
+  })
+  electronProcess.stderr.on('data', data => {
+    electronLog(data, 'red')
+  })
+
+  electronProcess.on('close', () => {
+    if (!manualRestart) process.exit()
+  })
+}
+
+function electronLog (data, color) {
+  let log = ''
+  data = data.toString().split(/\r?\n/)
+  data.forEach(line => {
+    log += `  ${line}\n`
+  })
+  if (/[0-9A-z]+/.test(log)) {
+    console.log(
+      chalk[color].bold('â” Electron -------------------') +
+      '\n\n' +
+      log +
+      chalk[color].bold('â”— ----------------------------') +
+      '\n'
+    )
+  }
+}
+
+function greeting () {
+  const cols = process.stdout.columns
+  let text = ''
+
+  if (cols > 104) text = 'electron-vue'
+  else if (cols > 76) text = 'electron-|vue'
+  else text = false
+
+  if (text) {
+    say(text, {
+      colors: ['yellow'],
+      font: 'simple3d',
+      space: false
+    })
+  } else console.log(chalk.yellow.bold('\n  electron-vue'))
+  console.log(chalk.blue('  getting ready...') + '\n')
+}
+
+function init () {
+  greeting()
+
+  Promise.all([startRenderer(), startMain()])
+    .then(() => {
+      startElectron()
+    })
+    .catch(err => {
+      console.error(err)
+    })
+}
+
+init()

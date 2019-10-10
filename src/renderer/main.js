@@ -1,22 +1,22 @@
-var baseIteratee = require('./_baseIteratee'),
-    baseWhile = require('./_baseWhile');
+import Vue from 'vue';
 
-/**
- * Creates a slice of `array` excluding elements dropped from the end.
- * Elements are dropped until `predicate` returns falsey. The predicate is
- * invoked with three arguments: (value, index, array).
- *
- * @static
- * @memberOf _
- * @since 3.0.0
- * @category Array
- * @param {Array} array The array to query.
- * @param {Function} [predicate=_.identity] The function invoked per iteration.
- * @returns {Array} Returns the slice of `array`.
- * @example
- *
- * var users = [
- *   { 'user': 'barney',  'active': true },
- *   { 'user': 'fred',    'active': false },
- *   { 'user': 'pebbles', 'active': false }
- * ];
+import App from './App';
+import store from './store';
+
+import { VueSpinners } from '@saeris/vue-spinners'
+
+import "weathericons/sass/weather-icons.scss";
+import "weathericons/sass/weather-icons-wind.scss";
+
+if (!process.env.IS_WEB) {
+    Vue.use(require('vue-electron'));
+}
+
+Vue.use(VueSpinners)
+Vue.config.productionTip = false;
+
+/* eslint-disable no-new */
+new Vue({
+  store,
+  render: h => h(App),
+}).$mount('#app');
