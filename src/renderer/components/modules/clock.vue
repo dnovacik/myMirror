@@ -63,7 +63,7 @@ export default {
   created() {
     moment.locale(config.config.language);
     this.getDateAndTime();
-    this.$store.dispatch('updateClockData');
+    this.$store.dispatch('clock/updateClockData');
   }
 };
 </script>

@@ -3,22 +3,27 @@
     <div class="wrapper-header">
       <span class="heading">Crypto</span>
     </div>
+    <div v-for="crypto in blockchain.cryptoPrice">
     <div class="blockchain-wrapper">
-      <img src="@/assets/btc.png" alt="bitcoin" />
-      <span class="last-price">{{ lastBtcPrice }}</span>
+      <img :src="require(`@/assets/${crypto.symbol}.png`)" :alt="crypto.symbol" />
+      <span class="last-price">{{ crypto.price }} {{ config.modules.cryptoPrice.baseTicker.symbol }}</span>
+    </div>
     </div>
   </div>
 </template>
 
 <script>
 import { mapState } from "vuex";
+import config from "./../../config.json";
 
 export default {
   name: "BlockchainModule",
   computed: {
-    ...mapState(["blockchain"]),
-    lastBtcPrice() {
-      return `${this.blockchain.bitcoin.last}${this.blockchain.bitcoin.symbol}`;
+    ...mapState(["blockchain"])
+  },
+  data() {
+    return {
+      config: config
     }
   },
   methods: {}
@@ -54,11 +59,12 @@ export default {
     flex-direction: row;
     justify-content: flex-end;
     align-items: center;
+    height: 50px;
 
     img {
       display: flex;
-      max-width: 50px;
-      max-height: 50px;
+      max-width: 40px;
+      max-height: 40px;
     }
 
     .last-price {

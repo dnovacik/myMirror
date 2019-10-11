@@ -50,9 +50,14 @@
         "clock": {
             "showSeconds": true
         },
-        "bitcoinPrice": {
+        "cryptoPrice": {
             "updateInterval": 900000,
-            "baseTicker": "EUR"
+            "baseTicker": {
+                "ticker": "EUR",
+                "symbol": "€"
+            },
+            "coinMarketCapProApiKey": "befad53f-c1e2-4b91-83fa-abc797cf785f",
+            "coinsTickers": ["BTC", "XLQ"]
         },
         "strava": {
             "access_token": "75f718621b699725707996305690c0d0408093d8",

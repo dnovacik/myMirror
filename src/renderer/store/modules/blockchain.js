@@ -1,8 +1,7 @@
 import { blockchainService } from "./../../services/blockchain.service";
-import blockchainModel from "../../models/blockchain/blockchain.model";
 
 const state = {
-  bitcoinPrice: blockchainModel,
+  cryptoPrice: [],
   errorMessage: null,
   isGettingPriceData: true
 };
@@ -12,42 +11,43 @@ const getters = {
     return state.isGettingPriceData;
   },
 
-  bitcoinPrice() {
-    return state.bitcoinPrice;
+  cryptoPrice() {
+    return state.cryptoPrice;
   }
 };
 
 const actions = {
-  updateBitcoinPrice({ commit }) {
-    commit('updateBitcoinPriceInitiated');
-    blockchainService.updateBitcoinPrice()
+  updateCryptoPrice({ commit }) {
+    commit('updateCryptoPriceInitiated');
+    blockchainService.updateCryptoPrice()
       .then(model => {
-        commit('updateBitcoinPriceSuccess', model);
+        commit('updateCryptoPriceSuccess', model);
       })
       .catch(err => {
 
-      });
+      })
   }
 };
 
 const mutations = {
-  updateBitcoinPriceInitiated(state) {
+  updateCryptoPriceInitiated(state) {
     state.isGettingPriceData = true;
   },
 
-  updateBitcoinPriceSuccess(state, model) {
-    state.weather = model;
+  updateCryptoPriceSuccess(state, model) {
+    state.cryptoPrice = model;
     state.isGettingPriceData = false;
   },
 
-  updateBitcoinPriceFailure(state, err) {
-    state.weather = weatherModel;
+  updateCryptoPriceFailure(state, err) {
+    state.cryptoPrice = [];
     state.isGettingPriceData = false;
     state.errorMessage = err;
   },
 };
 
 export default {
+  namespaced: true,
   state,
   mutations,
   actions,

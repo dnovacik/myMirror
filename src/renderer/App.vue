@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <div v-if="isLoadingApp" class="loading-overlay">
-      <bounce-loader :size="100" :color="'#fff'" class="spinner" />
+      <bounce-loader :size="100" :color="'#aaa'" class="spinner" />
     </div>
     <div v-else class="main-container">
       <div class="row-container">
@@ -31,21 +31,19 @@ export default {
     clockModule,
     blockchainModule
   },
-  data() {
-    return {
-      isLoadingApp: this.isGettingPriceData && this.isGettingWeatherData && this.isGettingClockData
-    };
-  },
   mounted() {
-    console.log(this.isGettingPriceData, this.isGettingWeatherData, this.isGettingClockData);
-    this.$store.dispatch("updateWeather");
-    this.$store.dispatch("updateForecast");
-    this.$store.dispatch("updateBitcoinPrice");
-    console.log(this.isGettingPriceData, this.isGettingWeatherData, this.isGettingClockData);
+    this.$store.dispatch("weather/updateWeather");
+    this.$store.dispatch("weather/updateForecast");
+    this.$store.dispatch("blockchain/updateCryptoPrice");
   },
-  created() {},
   computed: {
-    ...mapState(["isGettingPriceData", "isGettingWeatherData", "isGettingClockData"])
+    ...mapState(["weather"]),
+    ...mapState(["blockchain"]),
+    ...mapState(["clock"]),
+
+    isLoadingApp() {
+      return this.weather.isGettingWeatherData && this.blockchain.isGettingPriceData && this.clock.isGettingClockData;
+    }
   }
 };
 </script>
